@@ -1,2 +1,2 @@
-work.ua scraper script that uses Tor /n
-ugly yet functional
+## Work.ua scraper script that uses Tor 
+## It's ugly, yet functional
