@@ -1,2 +1,2 @@
-# work_ua_scraper-01
-# work_ua_scraper-01
+work.ua scraper script that uses Tor
+ugly yet functional
